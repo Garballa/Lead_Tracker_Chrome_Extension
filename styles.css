@@ -14,8 +14,7 @@ green color -> #5f9341
 
 input {
   width: 100%;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 10px;
   box-sizing: border-box;
   border: 1px solid #5f9341;
   height: 30px;
@@ -27,4 +26,7 @@ button {
   border: none;
   height: 30px;
   margin-top: 5px;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 20px;
 }
